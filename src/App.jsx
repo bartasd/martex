@@ -17,7 +17,7 @@ function App() {
       <Row className="justify-content-center">
         <Col className={style.col} xs={10} sm={8} md={6} lg={6} xl={7} xxl={6}>TEXT</Col>
       </Row>
-      <Row className={`${style.rowMargin} justify-content-center`}>
+      <Row className={style.rowMargin}>
         <Col className={style.col} xs={12} sm={12} md={6} lg={3} xl={3} xxl={3}>CLIP</Col>
         <Col className={style.col} xs={12} sm={12} md={6} lg={3} xl={3} xxl={3}>CLIP</Col>
         <Col className={style.col} xs={12} sm={12} md={6} lg={3} xl={3} xxl={3}>CLIP</Col>
