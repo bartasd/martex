@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/martex/static/css/main.7f730101.css",
-    "main.js": "/martex/static/js/main.93e7d379.js",
+    "main.css": "/martex/static/css/main.2ab57fa5.css",
+    "main.js": "/martex/static/js/main.af2e3548.js",
     "index.html": "/martex/index.html",
-    "main.7f730101.css.map": "/martex/static/css/main.7f730101.css.map",
-    "main.93e7d379.js.map": "/martex/static/js/main.93e7d379.js.map"
+    "main.2ab57fa5.css.map": "/martex/static/css/main.2ab57fa5.css.map",
+    "main.af2e3548.js.map": "/martex/static/js/main.af2e3548.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f730101.css",
-    "static/js/main.93e7d379.js"
+    "static/css/main.2ab57fa5.css",
+    "static/js/main.af2e3548.js"
   ]
 }
