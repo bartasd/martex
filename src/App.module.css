@@ -2,3 +2,56 @@
   background-color: #caccee;
   border: 1px solid #585858;
 }
+
+.rowMargin{
+  margin-left: 21vw;
+  margin-right: 21vw;
+}
+
+@media (max-width: 576px) {
+  .rowMargin {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .rowMargin2 {
+    margin-left: 15vw;
+    margin-right: 12vw;
+  }
+}
+@media (min-width: 577px) {
+  .rowMargin {
+    margin-left: 20vw;
+    margin-right: 20vw;
+  }
+  .rowMargin2 {
+    margin-left: 25.5vw;
+    margin-right: 23vw;
+  }
+}
+@media (min-width: 768px) {
+  .rowMargin {
+    margin-left: 13vw;
+    margin-right: 13vw;
+  }
+  .rowMargin2 {
+    gap: 7vw;
+  }
+}
+@media (min-width: 992px) {
+  .rowMargin {
+    margin-left: 9.5vw;
+    margin-right: 9.5vw;
+  }
+  .rowMargin2 {
+    gap: 4vw;
+  }
+}
+@media (min-width: 1400px) {
+  .rowMargin {
+    margin-left: 4vw;
+    margin-right: 4vw;
+  }
+  .rowMargin2 {
+    gap: 4vw;
+  }
+}
