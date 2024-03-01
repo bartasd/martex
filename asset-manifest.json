@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/martex/static/css/main.2ab57fa5.css",
-    "main.js": "/martex/static/js/main.af2e3548.js",
+    "main.css": "/martex/static/css/main.aa087364.css",
+    "main.js": "/martex/static/js/main.0c1b3e02.js",
+    "static/media/hero-1-img.png": "/martex/static/media/hero-1-img.9d393dacff4e5c73ec25.png",
+    "static/media/hero-1.jpg": "/martex/static/media/hero-1.37eb943c05acf72e51b0.jpg",
     "index.html": "/martex/index.html",
-    "main.2ab57fa5.css.map": "/martex/static/css/main.2ab57fa5.css.map",
-    "main.af2e3548.js.map": "/martex/static/js/main.af2e3548.js.map"
+    "main.aa087364.css.map": "/martex/static/css/main.aa087364.css.map",
+    "main.0c1b3e02.js.map": "/martex/static/js/main.0c1b3e02.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ab57fa5.css",
-    "static/js/main.af2e3548.js"
+    "static/css/main.aa087364.css",
+    "static/js/main.0c1b3e02.js"
   ]
 }
