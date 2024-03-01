@@ -1,9 +1,9 @@
-.col{
+.col {
   background-color: #caccee;
   border: 1px solid #585858;
 }
 
-.rowMargin{
+.rowMargin {
   margin-left: 21vw;
   margin-right: 21vw;
 }
@@ -58,4 +58,11 @@
   .rowMargin2 {
     gap: 4vw;
   }
+}
+
+.hero_img {
+  vertical-align: middle;
+  overflow: clip;
+  max-width: 100%;
+  height: auto;
 }

@@ -1,0 +1,4 @@
+meh
+
+1. ajust text in logo area - make responsive
+2. adjust logo size - make respoinsive
