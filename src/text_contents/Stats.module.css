@@ -1,0 +1,37 @@
+.text_cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  background-color: #f4f4f9;
+  border-radius: 16px;
+  padding-top: 10%;
+  padding-bottom: 7%;
+  margin-bottom: 10%;
+}
+
+.text_cont img {
+  width: 70%;
+}
+
+.text_cont p {
+  color: #757575;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.text_cont h2 {
+  color: #353f4f;
+  font-weight: 600;
+  text-align: center;
+  font-size: 2.65rem;
+}
+
+.text_cont :first-child,
+.text_cont :nth-child(2),
+.text_cont :nth-child(3) {
+  margin-bottom: 2rem;
+}
