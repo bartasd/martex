@@ -180,6 +180,188 @@ function App() {
           />
         </Col>
       </Row>
+      <Row className="justify-content-center">
+        <Col className={style.col} md={5} lg={5} xl={5} xxl={5}>
+          IMG
+        </Col>
+        <Col className={style.col} md={5} lg={5} xl={5} xxl={5}>
+          TEXT
+        </Col>
+      </Row>
+      <Row className="justify-content-center">
+        <Col className={style.col} md={5} lg={5} xl={5} xxl={5}>
+          TEXT
+        </Col>
+        <Col className={style.col} md={5} lg={5} xl={5} xxl={5}>
+          CLIPS CLIPS CLIPS CLIPS
+        </Col>
+      </Row>
+      <Row className="justify-content-center">
+        <Col className={style.col} md={5} lg={5} xl={5} xxl={5}>
+          IMG
+        </Col>
+        <Col className={style.col} md={5} lg={5} xl={5} xxl={5}>
+          TEXT
+        </Col>
+      </Row>
+      <div style={{}}>
+        <Row className="justify-content-center">
+          <Col
+            className={style.col}
+            xs={10}
+            sm={8}
+            md={6}
+            lg={6}
+            xl={7}
+            xxl={6}
+          >
+            <TextContent
+              header={"Build a customer-centric marketing strategy"}
+              text={"Ligula risus auctor tempus magna feugiat lacinia."}
+            />
+          </Col>
+        </Row>
+        <Row className="justify-content-center">
+          <Col
+            className={style.col}
+            xs={10}
+            sm={10}
+            md={10}
+            lg={10}
+            xl={10}
+            xxl={10}
+          >
+            BIG PICTURE
+          </Col>
+        </Row>
+      </div>
+      <Row className="justify-content-center">
+        <Col className={style.col} xs={10} sm={8} md={6} lg={6} xl={7} xxl={6}>
+          SLIDER
+        </Col>
+      </Row>
+      <Row className="justify-content-center">
+        <Col className={style.col} xs={10} sm={8} md={6} lg={6} xl={7} xxl={6}>
+          <TextContent
+            header={"Build a customer-centric marketing strategy"}
+            text={"Ligula risus auctor tempus magna feugiat lacinia."}
+          />
+        </Col>
+      </Row>
+      <Row>
+        <Col className={style.col} xs={12} sm={12} md={6} lg={3} xl={4} xxl={4}>
+          CLIP
+        </Col>
+        <Col className={style.col} xs={12} sm={12} md={6} lg={3} xl={4} xxl={4}>
+          CLIP
+        </Col>
+        <Col className={style.col} xs={12} sm={12} md={6} lg={3} xl={4} xxl={4}>
+          CLIP
+        </Col>
+      </Row>
+      <Row className="justify-content-center">
+        <Col className={style.col} md={5} lg={5} xl={5} xxl={5}>
+          IMG
+        </Col>
+        <Col className={style.col} md={5} lg={5} xl={5} xxl={5}>
+          TEXT
+        </Col>
+      </Row>
+      <Row className="justify-content-center">
+        <Col className={style.col} xs={10} sm={8} md={6} lg={6} xl={7} xxl={6}>
+          <TextContent
+            header={"Build a customer-centric marketing strategy"}
+            text={"Ligula risus auctor tempus magna feugiat lacinia."}
+          />
+        </Col>
+      </Row>
+      <Row className="justify-content-center">
+        <Col
+          className={style.col}
+          xs={10}
+          sm={10}
+          md={10}
+          lg={10}
+          xl={10}
+          xxl={10}
+        >
+          BIG PICTURE
+        </Col>
+      </Row>
+      <Row className="justify-content-center">
+        <Col className={style.col} md={5} lg={5} xl={5} xxl={5}>
+          IMG
+        </Col>
+        <Col className={style.col} md={5} lg={5} xl={5} xxl={5}>
+          TEXT
+        </Col>
+      </Row>
+      <Row className="justify-content-center">
+        <Col className={style.col} xs={10} sm={8} md={6} lg={6} xl={7} xxl={6}>
+          <TextContent
+            header={"Build a customer-centric marketing strategy"}
+            text={"Ligula risus auctor tempus magna feugiat lacinia."}
+          />
+        </Col>
+      </Row>
+      <Row>
+        <Col className={style.col} xs={12} sm={12} md={6} lg={3} xl={4} xxl={4}>
+          SLIDING CLIP
+        </Col>
+        <Col className={style.col} xs={12} sm={12} md={6} lg={3} xl={4} xxl={4}>
+          SLIDING CLIP
+        </Col>
+        <Col className={style.col} xs={12} sm={12} md={6} lg={3} xl={4} xxl={4}>
+          SLIDING CLIP
+        </Col>
+      </Row>
+      <Row>
+        <Col className={style.col} xs={12} sm={12} md={6} lg={3} xl={4} xxl={4}>
+          SOME BANNERS
+        </Col>
+        <Col className={style.col} xs={12} sm={12} md={6} lg={3} xl={4} xxl={4}>
+          SOME BANNERS
+        </Col>
+        <Col className={style.col} xs={12} sm={12} md={6} lg={3} xl={4} xxl={4}>
+          SOME BANNERS
+        </Col>
+      </Row>
+      <Row className="justify-content-center">
+        <Col className={style.col} xs={10} sm={8} md={6} lg={6} xl={7} xxl={6}>
+          SOME COMPONENT WITH CLIPS
+        </Col>
+      </Row>
+      <Row className="justify-content-center">
+        <Col className={style.col} xs={10} sm={8} md={6} lg={6} xl={7} xxl={6}>
+          <TextContent
+            header={"Build a customer-centric marketing strategy"}
+            text={"Ligula risus auctor tempus magna feugiat lacinia."}
+          />
+        </Col>
+      </Row>
+      <Row className="justify-content-center">
+        <Col className={style.col} md={5} lg={5} xl={5} xxl={5}>
+          TEXT
+        </Col>
+        <Col className={style.col} md={5} lg={5} xl={5} xxl={5}>
+          TEXT
+        </Col>
+      </Row>
+      <Row className="justify-content-center">
+        <Col className={style.col} xs={10} sm={8} md={6} lg={6} xl={7} xxl={6}>
+          BIG BANNER
+        </Col>
+      </Row>
+      <Row className="justify-content-center">
+        <Col className={style.col} xs={10} sm={8} md={6} lg={6} xl={7} xxl={6}>
+          LINKS
+        </Col>
+      </Row>
+      <Row className="justify-content-center">
+        <Col className={style.col} xs={10} sm={8} md={6} lg={6} xl={7} xxl={6}>
+          FOOTER
+        </Col>
+      </Row>
     </Container>
   );
 }
