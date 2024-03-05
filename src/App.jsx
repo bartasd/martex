@@ -1,24 +1,33 @@
 import { Container, Row, Col } from "react-bootstrap";
 import style from "./App.module.css";
-import Nav from "./components/Nav";
+import texts from "./data/texts.json";
+// --------- IMAGES ---------------------------------------
 import Hero from "./assets/img/hero-1-img.png";
 import Hero_bkg from "./assets/img/hero-1.jpg";
 import Hem1 from "./assets/img/img-10.png";
 import Hem2 from "./assets/img/img-06.png";
 import S1 from "./assets/img/stats1.png";
 import S2 from "./assets/img/stats2.png";
+import SomeStats from "./assets/img/some_stats.png";
+// --------------------------------------------------------
+// --------- COMPONENTS -----------------------------------
+import Nav from "./components/Nav";
 import Logo_content from "./text_contents/Logo_content";
 import TextContent from "./text_contents/TextContent";
+import TextContentNew from "./text_contents/TextContentNew";
 import ClipContent from "./text_contents/ClipContent";
 import Hmm1 from "./text_contents/Hmm1";
 import Hmm2 from "./text_contents/Hmm2";
 import Stats from "./text_contents/Stats";
+// --------------------------------------------------------
+// --------- ICONS ----------------------------------------
 import {
   faChalkboard,
   faLightbulb,
   faChartSimple,
   faObjectGroup,
 } from "@fortawesome/free-solid-svg-icons";
+// --------------------------------------------------------
 
 function App() {
   return (
@@ -157,7 +166,7 @@ function App() {
           />
         </Col>
       </Row>
-      <Row className={`${style.rowMargin2} justify-content-center`}>
+      <Row className={`${style.rowMargin2} justify-content-center mb-5 mt-5`}>
         <Col xs={12} sm={12} md={2} lg={3} xl={3} xxl={3}>
           <TextContent
             header={"89k"}
@@ -180,12 +189,12 @@ function App() {
           />
         </Col>
       </Row>
-      <Row className="justify-content-center">
-        <Col className={style.col} md={5} lg={5} xl={5} xxl={5}>
-          IMG
+      <Row className="justify-content-center mb-5 mt-5">
+        <Col md={5} lg={5} xl={5} xxl={5}>
+          <img className={style.hero_img} src={SomeStats} />
         </Col>
-        <Col className={style.col} md={5} lg={5} xl={5} xxl={5}>
-          TEXT
+        <Col md={5} lg={5} xl={5} xxl={5}>
+          <TextContentNew texts={texts[0]} st={1} />
         </Col>
       </Row>
       <Row className="justify-content-center">

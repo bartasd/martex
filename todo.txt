@@ -2,3 +2,4 @@ meh
 
 1. ajust text in logo area - make responsive
 2. adjust logo size - make respoinsive
+3. padariau text content padavima per json, pakeist visus kitus text componentus i nauja....
