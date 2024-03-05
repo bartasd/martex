@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/martex/static/css/main.da8b6475.css",
-    "main.js": "/martex/static/js/main.9e93f188.js",
+    "main.css": "/martex/static/css/main.85bb8c56.css",
+    "main.js": "/martex/static/js/main.90362aa5.js",
     "static/media/hero-1-img.png": "/martex/static/media/hero-1-img.9d393dacff4e5c73ec25.png",
     "static/media/img-06.png": "/martex/static/media/img-06.f8191e5aa6d0e29a6191.png",
     "static/media/img-10.png": "/martex/static/media/img-10.70b8ae93955d5867c546.png",
+    "static/media/some_stats.png": "/martex/static/media/some_stats.fe02ac15a7c87780e31a.png",
     "static/media/stats2.png": "/martex/static/media/stats2.b8e2a39b4464e9f7ad21.png",
     "static/media/hero-1.jpg": "/martex/static/media/hero-1.37eb943c05acf72e51b0.jpg",
     "static/media/stats1.png": "/martex/static/media/stats1.d5c03c731442d1de275c.png",
     "index.html": "/martex/index.html",
-    "main.da8b6475.css.map": "/martex/static/css/main.da8b6475.css.map",
-    "main.9e93f188.js.map": "/martex/static/js/main.9e93f188.js.map"
+    "main.85bb8c56.css.map": "/martex/static/css/main.85bb8c56.css.map",
+    "main.90362aa5.js.map": "/martex/static/js/main.90362aa5.js.map"
   },
   "entrypoints": [
-    "static/css/main.da8b6475.css",
-    "static/js/main.9e93f188.js"
+    "static/css/main.85bb8c56.css",
+    "static/js/main.90362aa5.js"
   ]
 }
